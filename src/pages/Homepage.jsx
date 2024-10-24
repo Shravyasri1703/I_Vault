@@ -23,7 +23,7 @@ const Homepage = () => {
         <h1 className='text-lg lg:text-xl font-extrabold text-white ml-2 lg:ml-5'>I VAULT</h1>
         <BsBuildingFillLock color='#FFBF00' size={25} />
         <button className='w-24 h-8 border-2 border-yellow-600 rounded-2xl ml-16 lg:hidden font-bold text-yellow-400' onClick={handleLogin}>Login</button>
-        <FaGithub color='#FFBF00' size={25} className='lg:hidden'/>
+        <FaGithub color='#FFBF00' size={25} className='lg:hidden' onClick={()=> {window.location.href='https://github.com/Shravyasri1703/I_Vault'}}/>
       </div>
       <div className='hidden lg:flex flex-row  p-5 items-center gap-2 mr-10' style={{ position: 'absolute', top: "0", right: "0" }}>
         <button className='w-32 h-10 border-2 border-yellow-600 rounded-3xl text-lg font-bold text-yellow-400 mr-5' onClick={handleLogin}>Login</button>
