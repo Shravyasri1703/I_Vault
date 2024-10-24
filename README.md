@@ -67,3 +67,7 @@ This will start the development server, and you can access the application by na
 
 # Screenshots
 
+![Screenshot 2024-10-24 192122](https://github.com/user-attachments/assets/5deec9cf-0761-4ddd-8604-3c827bec7add)
+![Screenshot 2024-10-24 192146](https://github.com/user-attachments/assets/65cfc442-6572-40e5-889b-51e36e5a14f2)
+![Screenshot 2024-10-24 192235](https://github.com/user-attachments/assets/139d764b-df92-4d04-b028-ab70339909b2)
+![Screenshot 2024-10-24 184615](https://github.com/user-attachments/assets/ac98b16b-938e-4569-b8af-28111fa66ef2)
