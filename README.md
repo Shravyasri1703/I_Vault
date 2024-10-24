@@ -1,6 +1,6 @@
 # I VAULT : User Account Management System
 
-Hosted Link : [text](https://profvault.netlify.app/)
+Hosted Link : [https://profvault.netlify.app/](https://profvault.netlify.app/)
 
 This is a user account management system built using React (V16+) and Vite. It allows users to create and manage accounts, log in, register, and view/edit their account information. The application uses Firebase Authentication for login and signup, Firebase Firestore for storing user data, and Firebase Storage for uploading and managing profile pictures. The state management is handled using Redux.
 
